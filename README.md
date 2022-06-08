@@ -9,10 +9,12 @@
 
 <h3> Obrigada por ter vindo até aqui! <h3>
 
+ 
 <h2> :pushpin: Menu :pencil2: <h2>
 
-- O que já fiz
-- Onde quero chegar
+-<a href="https://github.com/httpjulls/meuprogresso/blob/main/o-que-j%C3%A1-fiz/o-que-j%C3%A1-fiz.md" target="_blank"> O que já fiz
+ 
+-<a href="https://github.com/httpjulls/meuprogresso/tree/main/onde-quero-chegar" target="_blank"> Onde quero chegar
 
  <br>
 <div  align="center"> 
