@@ -14,7 +14,7 @@
 
 -<a href="https://github.com/httpjulls/meuprogresso/blob/main/o-que-j%C3%A1-fiz/o-que-j%C3%A1-fiz.md" target="_blank"> O que já fiz
  
--<a href="https://github.com/httpjulls/meuprogresso/tree/main/onde-quero-chegar" target="_blank"> Onde quero chegar
+-<a href="https://github.com/httpjulls/meuprogresso/blob/main/onde-quero-chegar/onde-quero-chegar.md" target="_blank"> Onde quero chegar
 
  <br>
 <div  align="center"> 
